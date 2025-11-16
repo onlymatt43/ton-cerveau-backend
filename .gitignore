@@ -1,0 +1,17 @@
+.env
+.env.*
+*.xcconfig
+*.xcconfig.example
+*.DS_Store
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.swp
+*.swo
+node_modules/
+*.log
+ios-app/TonCerveau/Secrets.xcconfig
+ios-app/TonCerveau/Secrets.xcconfig.example
+ios-app/TonCerveau/.xcconfig
+ios-app/TonCerveau/Info.plist
